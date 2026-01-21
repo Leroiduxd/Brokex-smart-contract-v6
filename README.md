@@ -1,8 +1,3 @@
-
----
-
-# ✅ **README.md — Brokex Smart Contracts**
-
 ````markdown
 # Brokex — Perpetual CFD Smart Contracts
 
